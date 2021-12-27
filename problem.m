@@ -1,0 +1,13 @@
+function [xi_minus,xi_plus,W,J,A,q,d,b,omegabar]=problem(t,c,m)
+r=m(t);
+W=2*c(t);
+n=length(r);
+q=zeros(n,1);
+J=ones(1,n);
+A=-r';
+rp=min(r);
+b=-rp;
+d=1;
+xi_plus=ones(n,1);
+xi_minus=zeros(n,1);
+omegabar=1e+100;
