@@ -9,8 +9,8 @@
 %           vaskatsikis@econ.uoa.gr                                 %
 %                                                                   %
 %   Main paper: S.D.Mourtas, V.N.Katsikis,                          %
-%               "Continuous-Time Black-Litterman Portfolio          %
-%               Optimization: A Neural Network Approach,"           %
+%               "Exploiting the Black-Litterman Framework through   %
+%               Error-Correction Neural Networks",                  %
 %               (submitted)                                         %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
