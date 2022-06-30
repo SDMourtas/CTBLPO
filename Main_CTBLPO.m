@@ -10,8 +10,8 @@
 %                                                                   %
 %   Main paper: S.D.Mourtas, V.N.Katsikis,                          %
 %               "Exploiting the Black-Litterman Framework through   %
-%               Error-Correction Neural Networks",                  %
-%               (submitted)                                         %
+%               Error-Correction Neural Networks", Neurocomputing,  %
+%               vol. 498, 43-58 (2022)                              %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear 
